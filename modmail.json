@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "Modmail",
+        "cwd": "./",
+        "script": "src/index.js"
+    }]
+}
